@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: red;
+}
+
+audio {
+  display: inline-block;
+  height: 40px;
+  width: calc(100% - 650px);
+  /*background-color: red;
+  padding: 6px;*/
+}
+
+label,
+button {
+  background: black;
+  border: 1px solid red;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 5px 10px 0;
+  padding: 8px 40px;
+  vertical-align: top;
+}
+
+label:hover,
+button {
+  background-color: red;
+  color: black;
+}
+
+label input {
+  display: none;
+}
+
+canvas {
+  display: block;
+  width: 100vw;
+  height: 15em;
+}
+
+.card#main {
+  background: black;
+  height: 40vh;
+  width: 100vw;
+  border: none;
+}
+
+#containerMain {
+  position: relative;
+  border-top: 3px groove red;
+  border-left: 3px groove red;
+  border-right: 3px groove red;
+  border-radius: 10px;
+}
+
+#controllers {
+  display: flex;
+}
+#disc {
+  display: flex;
+}
+
+#logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navbar-brand {
+  padding: 4px;
+}
