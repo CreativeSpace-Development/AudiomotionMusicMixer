@@ -1,4 +1,4 @@
-import AudioMotionAnalyzer from "https://raw.githubusercontent.com/KoolKreator/AudiomotionMusicMixer/main/src/audioMotion-analyzer.js";
+
 // audio source
 const audioElA = document.getElementById("audioA");
 const audioElB = document.getElementById("audioB");
