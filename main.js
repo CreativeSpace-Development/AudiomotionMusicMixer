@@ -1,4 +1,4 @@
-import AudioMotionAnalyzer from "audiomotion-analyzer";
+import AudioMotionAnalyzer from "./audiomotion-analyzer";
 // audio source
 const audioElA = document.getElementById("audioA");
 const audioElB = document.getElementById("audioB");
