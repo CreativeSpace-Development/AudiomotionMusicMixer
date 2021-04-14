@@ -3,7 +3,7 @@
 ##### Created with HTML, CSS, JS
 *Make mashups with your favorite mp3 downloads and see it visualized live*
 
-#####See It In Action
+##### See It In Action:
 >- [Live Site](https://zdfyg.csb.app/)
 
 <br>
