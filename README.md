@@ -20,4 +20,4 @@
 >- [ ] Sound effects
 >- [ ] Analyser Config
 >- [ ] User Login and Sharing
->- [ ] Spotify/Soundcloud/Youtube preloaded playlist 
+>- [ ] Spotify/Soundcloud/Youtube support and preloaded playlist 
