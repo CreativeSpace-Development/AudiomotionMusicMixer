@@ -24,7 +24,7 @@
 >- [ ] Sound effects
 >- [ ] Analyser Config
 >- [ ] User Login and Sharing
->- [ ] Spotify/Soundcloud/Youtube support and preloaded playlist 
+>- [ ] Soundcloud/Youtube support and preloaded playlist 
 
 <br>
 
